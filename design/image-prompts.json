@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-28",
+  "tool": "Built-in image_gen",
+  "purpose": "Illustrative editorial visuals for US Wellness, a separate organization from Healistix",
+  "assets": [
+    {
+      "name": "samples",
+      "path": "public/images/editorial/samples.webp",
+      "prompt": "Use case: photorealistic-natural. Create a landscape 4:3 editorial food comparison photograph for an independent wellness publication, not an advertisement. Based on supplied idea comparing bulk plain sea moss gel to fruit-blended sea moss gel. Two ordinary unbranded small clear glass jam jars, similar size, casually placed side by side on a slightly worn pale laminate kitchen counter. Left jar contains greyish beige plain sea moss gel with a thicker uneven texture, with a stainless spoon resting beside it. Right jar contains soft naturally golden mango sea moss gel with a small mango slice on a saucer. Keep the samples realistic and modest, neither grotesque nor artificially glowing. Straight down / slight overhead view as if casually documented on a good phone in indirect window daylight. A few mundane water spots, practical household setting, no carefully styled decorative props, normal exposure, soft edges and deep enough focus to understand both. No brand logos, no product labels, no words, no warnings, no studio gradients, no luxuriant fruit piles, no photorealistic clinical-test documents or instruments. The photograph is an illustrative comparison, not manufactured proof of a test. No polished e-commerce hero lighting, no hands presenting jars. One coherent photo, no split-line graphic."
+    },
+    {
+      "name": "origin",
+      "path": "public/images/editorial/origin.webp",
+      "prompt": "Use case: photorealistic-natural. Create a landscape 3:2 two-panel editorial geography illustration made of documentary-style photographs. Left panel: ordinary seaweed aquaculture lines in shallow muted green coastal water with simple bamboo posts and a few ropes, a practical working shoreline, natural overcast daylight. Right panel: Caribbean shoreline with blue-green waves, volcanic St. Lucia Piton mountains in the distance, irregular rocks and seaweed at waterline, natural partly cloudy daylight. Both are quiet observational travel photographs at eye level, believable colors and moderate contrast. Simple clean vertical division with no border, no typography, no labels, no infographic symbols, no dramatic sunbeams, no fake underwater golden roots, no toxic sludge, no people, no jars. The contrast is geographical cultivation settings, not medical evidence. Avoid glossy tourist poster, cinematic teal-orange grading, perfect art-directed composition."
+    },
+    {
+      "name": "spoon",
+      "path": "public/images/editorial/spoon.webp",
+      "prompt": "Use case: photorealistic-natural. A person has paused while stirring breakfast, and a spoonful of mango sea moss gel is held just above an ordinary small white ceramic bowl. Create a landscape 4:3 close editorial food photograph focusing on the stainless teaspoon with smooth naturally pale-golden mango gel, small fruit fibers, believable thick food texture. Cropped hand holding the spoon functionally at frame edge, no visible face. Worn kitchen table, soft daylight from a window out of frame, a partly eaten slice of mango on a small plate softly visible behind. Phone-camera observation of ordinary food, modest uneven light, no cosmetic glow, no orange saturation, no droplets styled on marble, no pedestal, no brand or jar visible, no words. Let the gel look like everyday fruit puree rather than luminous cosmetics. No shallow focus that obscures the spoon, no commercial macro glamour."
+    },
+    {
+      "name": "routine",
+      "path": "public/images/editorial/routine.webp",
+      "prompt": "Use case: photorealistic-natural. Create landscape 3:2 unpolished editorial tabletop comparison about routine simplicity. A normal breakfast table with two groups left and right, as if someone set their things out to compare. On the left several ordinary generic amber and white supplement bottles with modest blank labels (around ten), different sizes, a couple of loose plain capsules in a small dish, casually clustered rather than a chaotic heap. On the right a single small unlabeled clear glass jar of naturally golden mango fruit gel with a plain metal lid and a spoon beside an everyday drinking glass and a partially visible breakfast bowl. Soft window daylight, ordinary pale tabletop with minor scratches, direct overhead-ish phone perspective, recognizable practical objects and natural muted colors. No brand names, no words, no before/after numbers, no efficacy or medical symbols, no sale graphics, no perfection, no advertising product spotlight, no pristine marble or decorative leaves. Informational editorial still life, not proof of replacement of prescription medicines."
+    }
+  ]
+}
