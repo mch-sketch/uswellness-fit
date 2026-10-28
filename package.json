@@ -1,0 +1,14 @@
+{
+  "name": "uswellness-fit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "US Wellness Community sea moss editorial presell",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "4.154.0"
+  }
+}
