@@ -6,5 +6,19 @@
     "directory": "./public",
     "not_found_handling": "404-page"
   },
-  "observability": { "enabled": true }
+  "observability": {
+    "enabled": true
+  },
+  "account_id": "c58dadc38f4172809e31d5a1b93c1d56",
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "uswellness.fit/*",
+      "zone_name": "uswellness.fit"
+    },
+    {
+      "pattern": "www.uswellness.fit/*",
+      "zone_name": "uswellness.fit"
+    }
+  ]
 }
