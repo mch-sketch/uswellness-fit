@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="380" viewBox="0 0 640 380" role="img" aria-labelledby="title description">
+  <title id="title">Minerals named in the sea moss article</title>
+  <desc id="description">A central sea moss label connects to four names: iodine, potassium, calcium and magnesium. No quantities or health outcomes are shown.</desc>
+  <g fill="none" stroke="#d4b7a7" stroke-width="1.8"><path d="M266 144 158 85M374 144 482 85M266 236 158 295M374 236 482 295"/></g>
+  <circle cx="320" cy="190" r="76" fill="#faf4ee" stroke="#cda48f" stroke-width="1.5"/>
+  <g fill="#b85c38"><circle cx="158" cy="85" r="4"/><circle cx="482" cy="85" r="4"/><circle cx="158" cy="295" r="4"/><circle cx="482" cy="295" r="4"/></g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1e1a16" text-anchor="middle">
+    <text x="320" y="200">Sea moss</text>
+    <text x="133" y="62">Iodine</text>
+    <text x="507" y="62">Potassium</text>
+    <text x="133" y="336">Calcium</text>
+    <text x="507" y="336">Magnesium</text>
+  </g>
+  <g stroke="#d4b7a7" stroke-width="1"><path d="M91 76h84M438 76h138M79 349h108M434 349h146"/></g>
+</svg>

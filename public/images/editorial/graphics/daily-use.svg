@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="390" viewBox="0 0 640 390" role="img" aria-labelledby="title description">
+  <title id="title">Three ways to use one to two spoonfuls</title>
+  <desc id="description">A spoon branches toward three simple food pictograms labelled smoothie, tea and oatmeal, following the serving ideas in the article's FAQ.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1 8 5 2 9" fill="none" stroke="#b85c38" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="320" y="43" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1e1a16">1–2 spoonfuls</text>
+  <g stroke="#1e1a16" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="277" cy="92" rx="28" ry="18" fill="#f7eee6"/><path d="M305 87h73a5 5 0 0 1 0 10h-73"/></g>
+  <g stroke="#b85c38" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M320 125v32H110v30" marker-end="url(#arrow)"/><path d="M320 157v30" marker-end="url(#arrow)"/><path d="M320 157h210v30" marker-end="url(#arrow)"/></g>
+  <g fill="none" stroke="#1e1a16" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m79 232 8 76h46l8-76Z" fill="#faf4ee"/><path d="M83 251h54M116 266l9-54h21"/>
+    <path d="M288 248h62v33a29 29 0 0 1-58 0v-33Z" fill="#faf4ee"/><path d="M350 254h8c19 0 19 23 0 23h-8M284 315h74M302 233c-10-13 9-13 0-26M321 233c-10-13 9-13 0-26M340 233c-10-13 9-13 0-26"/>
+    <path d="M484 268h92c-2 27-19 42-46 42s-44-15-46-42Z" fill="#faf4ee"/><path d="M493 264c5-21 66-21 74 0M506 258l5-3m14-1 4-2m15 4 5 1M514 315h32"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#1e1a16" text-anchor="middle"><text x="110" y="358">Smoothie</text><text x="320" y="358">Tea</text><text x="530" y="358">Oatmeal</text></g>
+</svg>
